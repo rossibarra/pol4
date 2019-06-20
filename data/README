@@ -1,0 +1,12 @@
+
+#all gz files are in gitignore
+
+# Main data
+Data from: https://www.ebi.ac.uk/ena/data/view/PRJNA235320
+Paper: https://www.genetics.org/content/199/4/1107
+
+SRR1121678.fastq.gz: WT
+SRR1121679.fastq.gz: pol4 mutant
+
+# Also check Pol4 data here:
+https://www.ebi.ac.uk/ena/data/view/PRJNA290180
