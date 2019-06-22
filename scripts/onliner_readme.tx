@@ -1,2 +1,0 @@
-# filter for no mismatch (but has no header so need to run samtools view -h to get the header separately)
-samtools view -q 20 pol4_b73.bam | awk '$0 ~ "NM:i:0"' > nomismatchq20noheader.txt

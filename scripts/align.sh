@@ -1,5 +1,5 @@
 #!/bin/bash -l
-#SBATCH -D /home/jri/projects/pol4/
+#SBATCH -D /home/jri/projects/pol4/data/
 #SBATCH -J alignment
 #SBATCH -o /home/jri/projects/pol4/out-%j.txt
 #SBATCH -e /home/jri/projects/pol4/error-%j.txt

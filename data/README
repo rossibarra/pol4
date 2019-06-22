@@ -9,4 +9,13 @@ SRR1121678.fastq.gz: WT
 SRR1121679.fastq.gz: pol4 mutant
 
 # Also check Pol4 data here:
+data:
 https://www.ebi.ac.uk/ena/data/view/PRJNA290180
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE71046
+
+paper: 
+https://www.ncbi.nlm.nih.gov/pubmed/26747286
+
+# Also check siRNA data here:
+paper: http://www.plantcell.org/content/30/7/1617
+data: https://www.ebi.ac.uk/ena/data/view/PRJNA421742
